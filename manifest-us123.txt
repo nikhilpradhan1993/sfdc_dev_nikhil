@@ -1,0 +1,4 @@
+src/layouts/Object1__c-Object1 Layout.layout
+src/objects/Object1__c.object
+src/classes/Class1.cls
+src/classes/Class1.cls-meta
